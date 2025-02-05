@@ -47,5 +47,5 @@ The script uses:
 - Computationally intensive
 
 ## Contributing
-Contributions are welcome! Please submit pull requests or open issues.
+Contributions are welcome!
 
